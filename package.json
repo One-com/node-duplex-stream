@@ -1,6 +1,6 @@
 {
   "name": "duplex-stream-onecom",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Composable streams. Present a distinct readable stream and a distinct writable stream as a single Stream for reading/writing.",
   "keywords": "duplex stream, combined stream",
   "author": "Sam Day <sam.c.day@gmail.com>",
